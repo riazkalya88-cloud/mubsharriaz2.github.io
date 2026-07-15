@@ -86,7 +86,7 @@ button.addEventListener("click", () => {
     window.location.href = "/index.html";
 } else {
     // GitHub Pages
-    window.location.href = "../Public/index.html";
+    window.location.href = "../portfolio/index.html";
 }
 
         }, 2000);
